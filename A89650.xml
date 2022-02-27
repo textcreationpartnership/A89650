@@ -1,0 +1,616 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from the fleet. Being a true account of what has occurr'd therein since the Dutch ships join'd them in their present expedition for Brest. : With a list of the English and Dutch ships and guns. : Licensed July 24. 1689. J.F. : From the fleet at sea near Ushant, July the 13th, 1689.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89650</idno>
+            <idno type="STC">Wing N1007C</idno>
+            <idno type="STC">ESTC P3395</idno>
+            <idno type="EEBO-CITATION">43077543</idno>
+            <idno type="OCLC">ocm 43077543</idno>
+            <idno type="VID">151615</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89650)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151615)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2267:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from the fleet. Being a true account of what has occurr'd therein since the Dutch ships join'd them in their present expedition for Brest. : With a list of the English and Dutch ships and guns. : Licensed July 24. 1689. J.F. : From the fleet at sea near Ushant, July the 13th, 1689.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printd for Richard Baldwin in the Old-Baily,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Sources.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151615:1" rendition="simple:additions"/>
+            <head>
+               <hi>News from the FLEET.</hi> Being a true Account of what has occurr'd therein ſince the Dutch Ships join'd them in their preſent Expedi<g ref="char:EOLhyphen"/>tion for <hi>Breſt.</hi> With a Liſt of the Engliſh and Dutch Ships and Guns.</head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Licenſed </hi>July 24. 1689.<hi> J. F.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <div type="account">
+               <opener>
+                  <dateline>From the Fleet at Sea near <hi>
+                        <g ref="char:V">Ʋ</g>ſhant,</hi>
+                     <date>
+                        <hi>July</hi> the 13th, 1689.</date>
+                  </dateline>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Have often remembered my Promiſe to you when laſt together, but could not find ſufficient to trouble you with<g ref="char:EOLhyphen"/>all, but now am reſolved to let you know what is currant with us; Firſt I have ſent incloſed an exact Liſt of the Fleet, that are joyned at this Minute, both of <hi>Dutch</hi> and <hi>Engliſh</hi> Men of War, with their Fire-ſhips, and their order they are to fight in. Next, on the 4th Inſtant the <hi>Happy-Return, Portſmouth, Dover,</hi> and <hi>Jerſey</hi>-Frigats, were ordered by the Admiral to look into <hi>Breſt-Harbor,</hi> to obſerve the <hi>French</hi> Fleet, with their number, <hi>&amp;c.</hi> But on the 5th at brake of day, upon the Coaſt, they eſpi<g ref="char:EOLhyphen"/>ed within Gun-ſhot of them a <hi>French</hi> Man of War of 18 Guns and 80 Men, (a prit<g ref="char:EOLhyphen"/>ty Frigat capable of carrying 36 Guns; (more of this hereafter) but as ſoon as ſhe ſaw our Guns fire, and felt our Shot, ſhe made all the Sail ſhe could to eſcape us, ſhe being a prime Sayler: our Ships ſayling well, more eſpecially the <hi>Jerſey-Frigat,</hi> who plyed her well with their Fore-chace, and ſometimes with whole Broadſides, ſhe ſayling afore the Wind ſtill, plying her Stern-Chace very briskly upon our Ships, cutting our Maſts and Rigging, and ours hers, from three in the Morning, untill between twelve and one at Noon, when the <hi>Jerſey</hi> Shot had the good Fortune to ſhoot his Main Top-Maſt and Main-yard by the Board, upon which ſhe immediate<g ref="char:EOLhyphen"/>ly ſtruck her Ancient, after having chaced her ten Leagues South-weſt in the Sea.</p>
+               <p>The <hi>French</hi> Man of War's Name is <hi>La Villiee, Monſieur Pickerd</hi> Commander; ſhe was a Fire-ſhip under the ſaid Commander, at the Fight with the <hi>French</hi> upon the Coaſt of <hi>Ireland,</hi> but ſhe being almoſt a new Ship and a prime Saylor, they made her a Man of War, and put 18 Guns on Board, with 80 Men at <hi>Breſt</hi> ſince the Fight, and ſent her in all haſte to <hi>Waterford</hi> to carry Collonel <hi>Porter</hi> to <hi>K. J.</hi> who its ſaid came from <hi>Room;</hi> but on her return we met with her as aforeſaid, ſhe having left three <hi>French</hi> Men of War, of about 30 and 40 Guns each, in that Harbor, who wait the Motion of the late <hi>K. James</hi> to carry him off, when put to the rout, which is ex<g ref="char:EOLhyphen"/>pected when our Forces are landed; for the Letters do add that <hi>Ireland</hi> is but in a very bad condition to hold out againſt the Force of <hi>England,</hi> having neither Trade nor Mony; but they have been buoyed up with falſe News of our not being able to appear at Sea againſt the <hi>French:</hi> But I am of opinion the <hi>French</hi> will not appear fairly to us; we having this Day ſent into <hi>Breſt</hi> 12 Sail of Men of War, and 4 Fire-ſhips, under the Command of Sir <hi>Francis Wheeler</hi> in the <hi>Rupert,</hi> with an exquiſite <hi>French-Proteſtant</hi> Pilot, to do what Execu<g ref="char:EOLhyphen"/>tion they can, and to dare them out.</p>
+               <p>We have taken many Ships of the Nor<g ref="char:EOLhyphen"/>thern, <hi>Dutch, Danzeckers,</hi> &amp;c. loaded with <hi>French</hi> Commodities, and Wine and Salt, all to be ſent into <hi>Plymouth,</hi> amongſt them one <hi>French</hi> or <hi>Iriſh</hi> Man bound for <hi>Ireland</hi> from <hi>France</hi> with Volunteers.</p>
+               <p>
+                  <hi>July</hi> the 15th. This day is held a Coun<g ref="char:EOLhyphen"/>cel of War on board my Lord <hi>Torrington</hi> Admiral, on Capt. <hi>Wilford,</hi> for contriving to carry away their Majeſties Ship <hi>Pendennis</hi> to the late <hi>K. J.</hi> in <hi>Ireland;</hi> and on ſome other Officers for Miſdemeaners, and as ſoon as I know, you ſhall have the Know<g ref="char:EOLhyphen"/>ledg of it.</p>
+            </div>
+            <div type="lists_of_fleets">
+               <pb n="2" facs="tcp:151615:2"/>
+               <head>A Liſt of the Engliſh and Dutch Fleets.</head>
+               <div type="list">
+                  <head>The Engliſh Fleet.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label" cols="4">
+                              <hi>The Red Squadron.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell role="label">
+                              <hi>Fireſhips.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Men of War.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>Guns.</hi>
+                           </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>York</cell>
+                           <cell>
+                              <hi>60</hi>
+                           </cell>
+                           <cell rows="6">
+                              <hi>Vice Admiral.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>King-Fiſher</cell>
+                           <cell>
+                              <hi>46</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Robert <hi>&amp;</hi> John.</cell>
+                           <cell>St. David</cell>
+                           <cell>
+                              <hi>54</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Reſolution</cell>
+                           <cell>
+                              <hi>70</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>John <hi>of</hi> Dublin.</cell>
+                           <cell>Heneretta</cell>
+                           <cell>
+                              <hi>62</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Jerſey</cell>
+                           <cell>
+                              <hi>48</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Woolwich</cell>
+                           <cell>
+                              <hi>54</hi>
+                           </cell>
+                           <cell rows="6">
+                              <hi>Admiral.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Advice</cell>
+                           <cell>
+                              <hi>48</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Owners Love.</cell>
+                           <cell>Edger</cell>
+                           <cell>
+                              <hi>72</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Fire-Drake.</cell>
+                           <cell>Elizabeth</cell>
+                           <cell>
+                              <hi>70</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>St. Paul.</cell>
+                           <cell>Pendennis</cell>
+                           <cell>
+                              <hi>70</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Fubbs Yatch.</cell>
+                           <cell>St. Alban</cell>
+                           <cell>
+                              <hi>50</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Happy-Return</cell>
+                           <cell>
+                              <hi>54</hi>
+                           </cell>
+                           <cell rows="6">
+                              <hi>Rear Admiral.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Diamond</cell>
+                           <cell>
+                              <hi>40</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell rows="3">Sophia <hi>and</hi> Half-Moon.</cell>
+                           <cell>Montague</cell>
+                           <cell>
+                              <hi>60</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Hampton-Court</cell>
+                           <cell>
+                              <hi>70</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Defiance</cell>
+                           <cell>
+                              <hi>64</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Hampſhire</cell>
+                           <cell>
+                              <hi>46</hi>
+                           </cell>
+                        </row>
+                     </table>
+                     <table>
+                        <row>
+                           <cell role="label" cols="4">
+                              <hi>The Blew Squadron.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Greenwich</cell>
+                           <cell>
+                              <hi>54</hi>
+                           </cell>
+                           <cell rows="8">
+                              <hi>Admiral.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Reſerve</cell>
+                           <cell>
+                              <hi>50</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Cygnet.</cell>
+                           <cell>Rupert</cell>
+                           <cell>
+                              <hi>66</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Duke</cell>
+                           <cell>
+                              <hi>92</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Cadiz Merchant.</cell>
+                           <cell>Suffolke</cell>
+                           <cell>
+                              <hi>70</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Centurion</cell>
+                           <cell>
+                              <hi>48</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Charles <hi>&amp;</hi> Henry.</cell>
+                           <cell>Warſpight</cell>
+                           <cell>
+                              <hi>70</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Portſmouth</cell>
+                           <cell>
+                              <hi>46</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Oxford</cell>
+                           <cell>
+                              <hi>54</hi>
+                           </cell>
+                           <cell rows="8">
+                              <hi>Rear Admiral.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Tyger-Prize</cell>
+                           <cell>
+                              <hi>46</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Thom. <hi>&amp;</hi> Elizab.</cell>
+                           <cell>Lion</cell>
+                           <cell>
+                              <hi>60</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Berwick</cell>
+                           <cell>
+                              <hi>70</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Cambridge</cell>
+                           <cell>
+                              <hi>70</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Charles.</cell>
+                           <cell>Mordant</cell>
+                           <cell>
+                              <hi>46</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Dover</cell>
+                           <cell>
+                              <hi>48</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Plymouth</cell>
+                           <cell>
+                              <hi>60</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="list">
+                  <head>The Dutch Fleet.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell>Eendraght</cell>
+                           <cell>
+                              <hi>70</hi>
+                           </cell>
+                           <cell rows="7">
+                              <hi>Vice Admiral.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Fregat</hi>
+                           </cell>
+                           <cell>Honſterdyck</cell>
+                           <cell>
+                              <hi>50</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Command.</hi> Regat.</cell>
+                           <cell>Harlem</cell>
+                           <cell>
+                              <hi>64</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Brander.</cell>
+                           <cell>Gelderland</cell>
+                           <cell>
+                              <hi>72</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Co<g ref="char:cmbAbbrStroke">̄</g>mand.</hi> Dupen.</cell>
+                           <cell>North-Holland</cell>
+                           <cell>
+                              <hi>70</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>t'Wapen v. Horne</cell>
+                           <cell>
+                              <hi>52</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Gaſterlant</cell>
+                           <cell>
+                              <hi>52</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Fregat.</hi>
+                           </cell>
+                           <cell>Hollandia</cell>
+                           <cell>
+                              <hi>70</hi>
+                           </cell>
+                           <cell rows="8">
+                              <hi>Admiral.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell rows="2">
+                              <hi>Commander</hi> Genit Groes.</cell>
+                           <cell>Elſwout</cell>
+                           <cell>
+                              <hi>50</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Weſt-Friezlant</cell>
+                           <cell>
+                              <hi>80</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Brander.</cell>
+                           <cell>VValcheren</cell>
+                           <cell>
+                              <hi>70</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell rows="2">
+                              <hi>Command.</hi> Cor<g ref="char:EOLhyphen"/>nelis Autoneſſe.</cell>
+                           <cell>Amſterdom</cell>
+                           <cell>
+                              <hi>64</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Damiaten</cell>
+                           <cell>
+                              <hi>36</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell rows="2">
+                              <hi>Co<g ref="char:cmbAbbrStroke">̄</g>mand.</hi> Andois Mugſe Vanger.</cell>
+                           <cell>Schattershoeft</cell>
+                           <cell>
+                              <hi>46</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Cortine</cell>
+                           <cell>
+                              <hi>50</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Frigat.</hi>
+                           </cell>
+                           <cell>Waerdingen</cell>
+                           <cell>
+                              <hi>46</hi>
+                           </cell>
+                           <cell rows="7">
+                              <hi>Rear Admiral.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Capt.</hi> Brakel.</cell>
+                           <cell>Prov. <g ref="char:V">Ʋ</g>trecht</cell>
+                           <cell>
+                              <hi>56</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Brander.</cell>
+                           <cell>Sierickzee</cell>
+                           <cell>
+                              <hi>62</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Geeroondeburgh</cell>
+                           <cell>
+                              <hi>62</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Com.</hi> de Gough.</cell>
+                           <cell>Ridder Schap</cell>
+                           <cell>
+                              <hi>60</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Vreede</cell>
+                           <cell>
+                              <hi>52</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Vrijheyt</cell>
+                           <cell>
+                              <hi>72</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>There is the Vice Admiral of the Blew Captain <hi>Killegrew</hi> expected with more Ships of War.</p>
+                  <p>
+                     <hi>July</hi> the 13th, came into the Fleet about ſeven Sayl of <hi>Dutch</hi> Men of War and Fire-ſhips, their Names as yet we have not.</p>
+                  <p>We expect our Vice Admiral of the <hi>Blew,</hi> and 6 or 7 third and forth Rate more, all which are needleſs, for the <hi>French</hi> will not appear to theſe we have.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Baldwin</hi> in the <hi>Old-Baily,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
